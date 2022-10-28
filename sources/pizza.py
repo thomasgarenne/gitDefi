@@ -36,4 +36,8 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     }
+    'san remo': {
+        'ingredients' : {'cream' : 1, 'ham' : 3, 'mushroom': 5},
+        'price': 14,
+    }
 }
